@@ -1,0 +1,165 @@
+
+    .wrapper
+    {
+    background-color: #ffd868;
+    position: relative;
+    width: 1100px;
+    height: 672px;
+    border:2px solid black;
+    }
+    .container 
+    {
+        background-color: #f7d061;
+        width: 100%;
+        max-width: 1050px;
+        height:365px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 13px;
+    }
+    .desk
+    {
+        display: block;
+        margin: 0 auto;
+        margin-top: -382px;
+        height: 385px;
+        width: 818px;
+    }
+    .money
+    {
+        
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+    }
+    .sharic
+    {
+        position: absolute;
+        bottom: 0;
+        width: 461px;
+        height: 297px;
+    }
+.obl
+{
+    position: absolute;
+    right: 471px;
+    bottom: 92px;
+}
+.text
+{
+    position: absolute;
+    font-size: 23px;
+    text-align: center;
+    left: 329px;
+    bottom: 149px;
+
+}
+.graf1
+{
+    position: absolute;
+    top: 50px;
+    left: 182px;
+}
+.graf2
+{
+    position: absolute;
+    top: 32px;
+    left: 416px;
+}
+.graf3
+{
+    position: absolute;
+    top: 62px;
+    left: 623px;
+}
+.odin
+{
+    background-color: white;
+    position: absolute;
+    top: 305px;
+    font-size: 30px;
+    color: red;
+    left: 282px;
+    border-color: white;
+}
+.dva
+{
+    background-color: white;
+    position: absolute;
+    top: 305px;
+    font-size: 30px;
+    color: red;
+    left: 507px;
+    border-color: white;
+
+}
+.tri
+{
+    background-color: white;
+    position: absolute;
+    top: 305px;
+    font-size: 30px;
+    color: red;
+    left: 767px;
+    border-color: white;
+
+}
+#graf
+{
+    display:none;
+    font-size: 40px;
+
+    width: 945px;
+    
+    height: 591px;
+
+}
+#mod
+{
+    display: none;
+   
+    font-size: 132px;
+    width: 934px;
+    height: 603px;
+
+}
+.zlost
+{
+  
+    width: 891px;
+height: 481px;
+position: relative;
+right: 0px;
+bottom: 68px;
+    
+    }
+    .verno
+    {
+      
+        position: absolute;
+        right: 82PX;
+        bottom: 40px;
+    }
+    .neverno
+    {
+        font-size: 40px;
+
+        position: absolute;
+        
+        bottom: 25px;
+        
+        left:173px;
+        text-align: center;
+    }
+    .radost
+    {
+        width: 890px;
+
+        height: 460px;
+        
+        position: relative;
+        
+        right: -7px;
+        
+        bottom: 27px;
+    }
